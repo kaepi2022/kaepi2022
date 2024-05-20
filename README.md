@@ -6,5 +6,4 @@
 <h1>日本人の学生です。<h1>
 <p>Androidいじり、Apkの開発<br>C/Pythonなどを使ったソフトの開発をしています<br></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kaepi2022=anuraghazra&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaepi2022&cache_seconds=1800)
