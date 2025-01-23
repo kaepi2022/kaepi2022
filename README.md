@@ -4,8 +4,10 @@
 
 <h1>Hello World! Everyone!! :)<h1>
 <h3>I love gochiusa and touhou project, Mario. I think I wanna make many new games.</h3>
+##most used languages
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+##I can use Programing languages top 4+1(HTML)
 <p align="center">
-  <p>I can use Programing languages top 4+1(HTML)<br></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css" />
   </a>
