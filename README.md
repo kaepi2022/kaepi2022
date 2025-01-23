@@ -10,9 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 ## I can use Programing languages top 4+1(HTML)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css" />
-  </a>
-</p>
