@@ -7,6 +7,6 @@
 <p align="center">
   <p>I can use Programing languages top 4+1(HTML)<br></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css" />
   </a>
 </p>
