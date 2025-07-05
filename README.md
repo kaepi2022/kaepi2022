@@ -5,7 +5,7 @@
 <h1>Hello World! Everyone!! :)<h1>
 <h2>I love gochiusa and touhou project, Mario.<br> I think I wanna make many new games.</h2>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsuzawa" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaepi2022" />
 
 ## I can use Programing languages top 4+1(HTML)
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css" />
