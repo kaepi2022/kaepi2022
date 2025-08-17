@@ -7,6 +7,6 @@
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaepi2022" />
 
-## I can use Programing languages top 4+1(HTML)
+## I can use Programing languages top 5+2(HTML/CSS)
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,fortran,py,html,css" />
 
