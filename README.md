@@ -3,7 +3,11 @@
 <link href="https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap" rel="stylesheet">
 
 <h1>Hello World! Everyone!! :)<h1>
-<h2>I love gochiusa and touhou project, Mario.<br> I think I wanna make many new games.</h2>
+<h2>
+  I absolutely love Nintendo's Mario, Touhou Project, and Is the Order a Rabbit?
+  <br>
+　I'm currently focusing on making the Asobiya team a reality. 😁
+</h2>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaepi2022" />
 
